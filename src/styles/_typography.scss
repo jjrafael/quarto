@@ -1,0 +1,17 @@
+h1, h2, h6 {
+	font-family: $nixie;
+}
+
+h3, h4, h5 {
+	font-family: $sans;
+}
+
+h2 {
+	font-size: $fs-l;
+}
+
+h3 {
+	color: $black;
+	font-size: $fs-m;
+	font-weight: $fw-thin;
+}
